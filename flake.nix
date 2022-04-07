@@ -4,7 +4,7 @@
   inputs = {
     flake-utils.url = "github:numtide/flake-utils";
     nix-cra-template-src = {
-      url = "github:dolphrundgren/nix_cra_template/v1.0.0";
+      url = "github:dolphrundgren/nix_cra_template";
       flake = false;
     };
   };
